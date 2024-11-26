@@ -1,12 +1,9 @@
-# bodoge-fe
-オンラインボードゲームの画面を作る際のサンプルプロジェクト。
+# board game client template
+- This is a template repository for creating online board game client with Vite, React, three.js, React-three-fiber and tailwind css.
+- This project has implemented my original board game "undo ando".
+  - You can read the rule([JP](https://mfqwkmr4.notion.site/undo-ando-13b1123f22e180b389d8d5c3b231fe87))([EN](https://mfqwkmr4.notion.site/undo-ando-English-14a1123f22e180259f72dde40a216470)) and play it [here](https://bodoge-fe.pages.dev/).
 
-## 関連情報
-- cloudflare pagesを使ってホストする。
-- このゲームのルールはこちら。
-- バックエンドのコードはこちら。
-
-## ディレクトリ
+## Composition
 ```
 bodoge-fe/
 ├── src/
